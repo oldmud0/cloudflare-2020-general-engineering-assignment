@@ -1,0 +1,7 @@
+name = "cf-engineering-assignment"
+type = "javascript"
+account_id = "5a848e8234275c4dd4eeafe64acdc9df"
+workers_dev = true
+route = ""
+zone_id = ""
+
